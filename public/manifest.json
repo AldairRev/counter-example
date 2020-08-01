@@ -1,0 +1,27 @@
+{
+    "short_name": "Counter Example",
+    "name": "Counter Example with ReactJS",
+    "description": "This is a counter Example with ReactJS",
+    "icons": [
+      {
+        "src": "ico-64.png",
+        "type": "image/png",
+        "sizes": "64x64"
+      },
+      {
+        "src": "ico-256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "ico-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "",
+    "background_color": "#fafafa",
+    "display": "",
+    "scope": "",
+    "theme_color": "#99B2DD"
+}
